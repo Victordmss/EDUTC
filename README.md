@@ -2,7 +2,7 @@
 
 ### Graphical schedule creator
 
-The idea of the project is to process the emails :mailbox: that my university sends us to inform us of our schedule. In order to be better organized, I want to see it in a graphical :calendar: form 
+The idea of the project is to process the emails :mailbox: that my university sends us to inform us of our schedule. In order to be better organized, I want to see it in a graphical form. :calendar:
 In my university, there is already a website that allows us to do that : [Emploi d'UT temps](https://github.com/simde-utc/emploidutemps). 
 However, when we receive the email, the website is ofen down because of the numbers of people.
 So there is a problem and I need a solution to fix that ! What a better way to automate this process! :computer:
